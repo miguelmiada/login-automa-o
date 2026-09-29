@@ -8,7 +8,7 @@ Automação em Python que abre o navegador e faz login automaticamente em dois s
 - Lê as credenciais de variáveis de ambiente (.env), sem deixá-las expostas no código
 - Inclui um utilitário (coordenadas.py) para descobrir as coordenadas do mouse na sua tela
 
-=================================================================================================
+
 🛠️ Tecnologias utilizadas
 Python
 PyAutoGUI
