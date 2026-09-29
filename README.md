@@ -19,10 +19,15 @@ subprocess (biblioteca padrão)
 📁 Estrutura do projeto
 
 login-automa-o/
-├── main.py          
+
+├── main.py     
+
 ├── coordenadas.py 
-├── .env             
+
+├── .env           
+
 ├── .env.example 
+
 └── .gitignore
 
 ▶️ Como usar
