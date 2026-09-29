@@ -19,10 +19,10 @@ subprocess (biblioteca padrão)
 📁 Estrutura do projeto
 
 login-automa-o/
-├── main.py          # Script principal: abre o navegador e faz o login
-├── coordenadas.py   # Utilitário para descobrir coordenadas do mouse
-├── .env             # Suas credenciais (NÃO é enviado ao GitHub)
-├── .env.example     # Modelo do arquivo .env
+├── main.py          
+├── coordenadas.py 
+├── .env             
+├── .env.example 
 └── .gitignore
 
 ▶️ Como usar
