@@ -15,15 +15,15 @@ PyAutoGUI
 python-dotenv
 subprocess (biblioteca padrão)
 
+
 📁 Estrutura do projeto
 
 login-automa-o/
 ├── main.py          # Script principal: abre o navegador e faz o login
 ├── coordenadas.py   # Utilitário para descobrir coordenadas do mouse
-├── .env             
+├── .env             # Suas credenciais (NÃO é enviado ao GitHub)
 ├── .env.example     # Modelo do arquivo .env
 └── .gitignore
-
 
 ▶️ Como usar
 
